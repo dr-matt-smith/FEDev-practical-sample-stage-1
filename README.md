@@ -1,7 +1,7 @@
 # FEDev-practical-sample-stage-1
 
 NOTE: A Captioned video work through of this stage has been published at:
-- 
+- https://go.screenpal.com/watch/cOn2Ywn0F5z
 
 This document summarises the steps I took when creating my solution to the sample FEDev Practial 1, which requires you to document (as Git commit-snapshots) each of the following progressive stages in your website development:
 
