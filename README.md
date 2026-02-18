@@ -170,7 +170,7 @@ I did the following:
    
 1. I then edited the `README.md` file to record that project **Stage 1 - Basic HTML structure (no CSS/no links/no images)** was complete
 
-1. I then followed the usual sequence of actions to create a new snapshot and upload it to Github:
+1. I then followed the usual sequence of actions to create a new commit-snapshot and upload it to Github:
    - add the changed/new files to the stating area
       - `git add .`
    - creatre a new commit-snapshot for the current status of the project
